@@ -95,10 +95,36 @@ h2 {
 }
 
 .recipie {
-    width: 50%;
+    width: 30%;
     margin-left: 5%;
     margin-right: 5%;
-    padding: 50px;
+    padding: 40px;
     border-radius: 15px;
+
     box-shadow: 10px 10px 40px rgb(77, 77, 74);
+}
+
+.last-div {
+    width: 75%;
+    margin: 5%;
+    padding: 40px;
+    border-radius: 15px;
+
+    box-shadow: 10px 10px 40px rgb(77, 77, 74);
+}
+
+.last-div h1 {
+    word-spacing: 100px;
+    text-align: center;
+}
+
+footer {
+    background-color: black;
+    color: rgb(250, 241, 241);
+    height: 100px;
+    padding: 5%;
+}
+
+.footer-dec {
+    text-align: center;
 }
